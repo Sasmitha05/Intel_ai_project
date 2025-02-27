@@ -54,8 +54,11 @@ Comparing unsupervised clusters to known class labels for evaluation.
 
 
 1.Clone the repository.
+
 2.Install the required libraries using:
       pip install -r requirements.txt
+      
 3.Run the main script:
       python iris_clustering.py
+
 4.View the plots and clustering results in the console.
